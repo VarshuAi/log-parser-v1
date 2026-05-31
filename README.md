@@ -18,7 +18,7 @@ Ensure you have the required runtime environment installed (PYTHON).
 ### Execution
 Clone the repository and run:
 ```bash
-git clone https://github.com/VARSHAN69/log-parser-v1.git
+git clone https://github.com/VarshuAi/log-parser-v1.git
 cd log-parser-v1
 ```
 Run the master script or compile the executable entry point.
