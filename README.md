@@ -38,7 +38,7 @@ version: 1.0
 type: Repository
 author: VarshuAi
 description: >
-  Parses and highlights warning/error flags in server logs. [Variant 1 using PYTHON with Cyberpunk theme]
+  name: log-parser-v1 version: 1.0 type: Repository author: VarshuAi description: >   Parses and highlights warning/error flags in server logs. [Variant 1 using PYTHON with Cyberpunk theme] primary_tech: Python
 primary_tech: Python
 ```
 
